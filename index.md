@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "sc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
+carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "NIST"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "100 Bureau Drive, Gaithersburg, MD, 20899"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
